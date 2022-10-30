@@ -8,6 +8,11 @@ this project is an inspiration by Takuya Matsuyama's [video](https://www.youtube
 - Webpack as a module bundler
 - Fully Responsive
 
+## demo
+
+**To view the demo:** [**click here**](https://hamadalachhab.github.io/hamada-link-in-bio/)
+
+![pc](./demo/link-in-bio.gif)
 
 ## How To Use
 
