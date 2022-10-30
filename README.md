@@ -18,7 +18,7 @@ From your command line :
 $ git clone https://github.com/HamadaLachhab/hamada-link-in-bio.git
 
 # Move into the repository
-$ cd ahbari-link-in-bio
+$ cd hamada-link-in-bio
 ```
 
 ## Setup
